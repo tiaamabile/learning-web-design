@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset=“utf-8”>
+	<title>Tapenade (Olive Spread)</title>
+	<style>
+
+	body {
+		background-color: #faf2e4;
+		margin:0 15%;
+		font-family: sans-serif;
+		}
+	h1 {
+		text-align: center;
+		font-family: serif;
+		font-weight: normal;
+		text-transform: uppercase;
+		border-bottom: 1px solid #57b1dc;
+		margin-top: 30px;
+		}
+	h2{
+		color: #d1633c;
+		font-size: 1em;
+		}
+
+	</style>
+</head>
+
+<h1>Tapenade (Olive Spread)</h1>
+
+<body>
+
+<br>This is a really simple dish to prepare and it's always a big hit at parties. My father recommends:
+
+<br>"Make this the night before so that the flavors have time to blend. Just bring it up to room temperature before you serve it. In the winter, try serving it warm."
+<br>
+<br><h2>Ingredients</h2>
+
+<br>1 8oz. jar sundried tomatoes
+<br>2 large garlic cloves
+<br>2/3 c. kalamata olives
+<br>1 t. capers
+<br>
+<br><h2>Instructions</h2>
+
+<br>Combine tomatoes and garlic in a food processor. Blend until as smooth as possible.
+
+<br>Add capers and olives. Pulse the motor a few times until they are incorporated, but still retain some texture.
+
+<br>Serve on thin toast rounds with goat cheese and fresh basil garnish (optional).
+
+</body>
+
+</html>
